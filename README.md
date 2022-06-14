@@ -3,6 +3,8 @@
 - [Simple Voice Chat Mod](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 - [Faithful32](https://faithfulpack.net/)
 
+Alternative icon themes can be found within the assets/packs folder
+
 # Credits
 Wooferscoots\
 THEMAIS0N, Cituation - Faithful GUI

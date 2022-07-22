@@ -7,5 +7,5 @@ Alternative icon themes can be found within the assets/voicechat/packs folder
 
 # Credits
 Wooferscoots\
-Cituation - Faithful GUI
+THEMAIS0N, Cituation - Faithful GUI
 
